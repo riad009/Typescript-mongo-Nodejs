@@ -1,4 +1,4 @@
-// userRoutes.ts
+
 
 import express, { Request, Response } from 'express';
 import User, { createUserSchema } from '../models/userModel';
